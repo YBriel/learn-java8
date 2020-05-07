@@ -5,7 +5,10 @@ import lombok.Data;
 
 /**
  * 项目
- *
+ * 在哪里以及如何使用ambda
+ * 函数描述符
+ * FunctionalInterface
+ * 函数式接口，类型推断
  * @author biezhi
  * @date 2018/2/9
  */

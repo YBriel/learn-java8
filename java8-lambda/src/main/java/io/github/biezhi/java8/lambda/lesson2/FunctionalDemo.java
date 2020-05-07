@@ -7,7 +7,12 @@ import java.util.function.*;
 
 /**
  * 函数式接口示例
- *
+ * 函数式接口示例
+ *方法引用
+ * 构造函数引用
+ * 类型检查
+ * 编码实践
+ * lambda小结
  * @author biezhi
  * @date 2018/2/10
  */
